@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Re-Zero Ram&Rem 4k Dynamic Wallpaper with Perspective Clock.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.9647058823529412 0.3686274509803922 1"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "Re-Zero Rem And Ram with Perspective Clock",
+	"type" : "web",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "2987324280",
+	"workshopurl" : "steam://url/CommunityFilePage/2987324280"
+}
